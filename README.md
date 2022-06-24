@@ -1,1 +1,1 @@
-# ADC Generative Art Boilerplate for GitHub Pages
+# Api Generative Art
